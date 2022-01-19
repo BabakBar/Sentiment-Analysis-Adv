@@ -1,2 +1,5 @@
 # Sentiment-Analysis-Adv
 Sentiment Analysis in Python
+- Numeric Features from Reviews: Amazon product reviews
+- Transforming Tweets: Working with sentiment analysis data from social media platforms
+- Predict the Sentiment: Employ machine learning to predict the sentiment of a review based on the words. Use logistic regression and evaluate its performance in different ways. 
