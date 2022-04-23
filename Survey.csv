@@ -21,7 +21,7 @@ WELL DONE   "
 Yes,No
 "Its at the very basic stage and is not doing a complete registration process. For now, its answering just 2 questions.",You can improve it by implementing a complete registration process and storing the user data somewhere in a DB and you can also fetch the deadlines date from a DB via APIs to make it better. This initial version does not explain anything at the moment.
 Yes. I liked it when it provided a small description and links.,Very nice idea. I have seen chatbots in websites for customer service. But the idea of having such a tool in universities is a step forward. Specially when a student doesn't want to bother professors with simple or personal questions. A cool usecase can be to take appointments instead of using emails.  
-yes,good starting point. I will suggest to add the links with direct acces from the chat conversation and to suggest a contact email when the answer is not available.
+yes,good starting point. I will suggest to add the links with direct access from the chat conversation and to suggest a contact email when the answer is not available.
 a good implementation for a search query bot. ,"good implementation and will make it easier to navigate in the website by providing the links. 
 Can links be made clickable?
 bot unable to small talk yet. either remove it as an option from instructions here, and make it clear that this is just a bot to provide guidance to requested links and answers to relevant questions. Or improve small talk flows.
